@@ -45,9 +45,9 @@ export const PROJECTS: Project[] = [
 ];
 
 export const PERSONAL_INFO = {
-  name: 'MARCUS LUDWIG',
-  title: 'VISUAL DESIGNER',
-  location: 'ZURICH, CH',
-  email: 'HELLO@MARCUSLUDWIG.DESIGN',
+  name: 'RAHMAT DATUL FAHRI',
+  title: 'GRAPHIC DESIGN',
+  location: 'INDONESIA, PADANG',
+  email: 'HELLO@RAHMATFAHRI.DESIGN',
   bio: 'Guided by the principles of clarity, objectivity, and functionalism. I specialize in building visual systems that prioritize information hierarchy and typographic precision. My work seeks to find the balance between mathematical rigor and human intuition.'
 };
